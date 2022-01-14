@@ -12,7 +12,9 @@ Dataset on Kaggle: [Student_Marks.csv](https://www.kaggle.com/yasserh/student-ma
 The definitions of dependent and independent variables in the dataset are given below:
 
 **number_courses:** Number of Courses Opted by the student.
+
 **time_study:** Average Time Studied per day by the student.
+
 **Marks:** Marks obtained by the student.
 
 Detailed analysis of the dataset is shown in the **Student_Mark.ipynb** file.
